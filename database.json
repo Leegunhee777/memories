@@ -1,0 +1,8 @@
+
+{
+    "host":"management-tutorial.cl2ffham5t5a.ap-southeast-2.rds.amazonaws.com",
+    "user":"user",
+    "password":"l2169835",
+    "port":"3306",
+    "database":"management"
+}
